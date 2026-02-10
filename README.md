@@ -94,19 +94,23 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 
 ## OUTPUT :
 
-<img width="362" height="230" alt="d2" src="https://github.com/user-attachments/assets/845edd7b-43d8-44f0-95b4-6a1f60e25401" />
+<img width="468" height="237" alt="image" src="https://github.com/user-attachments/assets/7113a799-d626-4f49-903e-e9386bbb8258" />
 
-<img width="258" height="35" alt="d5" src="https://github.com/user-attachments/assets/87477645-78ec-4197-96e1-cc68fefe4b7a" />
+
+<img width="252" height="38" alt="image" src="https://github.com/user-attachments/assets/2d4623de-d002-4ed9-a4b8-5954f2952949" />
+
 
 
 
 ## Training Loss Vs Iteration Plot :
 
-<img width="727" height="568" alt="graph" src="https://github.com/user-attachments/assets/226690f1-76e8-41fe-81da-3329689bb83f" />
+<img width="800" height="579" alt="image" src="https://github.com/user-attachments/assets/fdc66eac-24a4-42b2-9564-4cb2a3d283ea" />
+
 
 
 ## New Sample Data Prediction :
-<img width="422" height="37" alt="d1" src="https://github.com/user-attachments/assets/3d31855a-a7cf-4293-bd08-71f0cb173649" />
+<img width="332" height="47" alt="image" src="https://github.com/user-attachments/assets/c81648d7-4fca-4210-a975-99ddf730fc13" />
+
 
 
 
