@@ -142,7 +142,7 @@ print(f'Prediction: {prediction}')
 ```
 
 ### Dataset Information
-<img width="450" height="328" alt="image" src="https://github.com/user-attachments/assets/f2ed54c3-3786-44d1-abf8-3f0ad65b7c19" />
+![image alt](https://github.com/SajenMurali/Developing-a-Neural-Network-Regression-Model/blob/6487546a5adeaf750c62d2e002ef4654e52e95d8/Screenshot%202026-03-22%20102133.png)
 
 ### OUTPUT
 <img width="753" height="347" alt="image" src="https://github.com/user-attachments/assets/b4c16a03-9be4-4635-a580-b649e2dbc0ee" />
