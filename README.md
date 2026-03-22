@@ -145,14 +145,14 @@ print(f'Prediction: {prediction}')
 ![image alt](https://github.com/SajenMurali/Developing-a-Neural-Network-Regression-Model/blob/6487546a5adeaf750c62d2e002ef4654e52e95d8/Screenshot%202026-03-22%20102133.png)
 
 ### OUTPUT
-<img width="753" height="347" alt="image" src="https://github.com/user-attachments/assets/b4c16a03-9be4-4635-a580-b649e2dbc0ee" />
+![image alt](https://github.com/SajenMurali/Developing-a-Neural-Network-Regression-Model/blob/6487546a5adeaf750c62d2e002ef4654e52e95d8/Screenshot%202026-03-22%20102126.png)
 
 ### Training Loss Vs Iteration Plot
-<img width="1751" height="650" alt="image" src="https://github.com/user-attachments/assets/535c7518-03e3-4576-8522-b4c2c8e2a777" />
+![image alt](https://github.com/SajenMurali/Developing-a-Neural-Network-Regression-Model/blob/8826b8f75dd8f8d22f2ff99ba8cc4a99094d695d/Screenshot%202026-03-22%20102309.png)
 
 
 ### New Sample Data Prediction
-<img width="1752" height="139" alt="image" src="https://github.com/user-attachments/assets/cda86d1d-98b0-4c8d-aafa-c5cc388b439d" />
+![image alt](https://github.com/SajenMurali/Developing-a-Neural-Network-Regression-Model/blob/6487546a5adeaf750c62d2e002ef4654e52e95d8/Screenshot%202026-03-22%20102139.png)
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
